@@ -47,3 +47,5 @@ print("NESTED", personOne)
 print(personOne["likes"].get("music"))
 
 # ALL METHODS ARE APPLIED LIKE THE LIST || copy() - pop() | popItem() - clear()
+
+
